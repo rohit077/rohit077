@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rraychowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rraychowdhury" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohitroychowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitroychowdhury" height="30" width="40" /></a>
+<a href="https://twitter.com/rraychowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rraychowdhury" height="30" width="40" /></a>
 <a href="https://kaggle.com/rohitroychowdhury0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohitroychowdhury0" height="30" width="40" /></a>
 <a href="https://instagram.com/photoshoppers_stop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="photoshoppers_stop" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/photoshoppers_stop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="photoshoppers_stop" height="30" width="40" /></a>
